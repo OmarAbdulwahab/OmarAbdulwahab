@@ -3,6 +3,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="300">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+e-meet+you!;I'm+a+software+Engineer+;Tech+lover;and+a+great+chess+player%3F)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -25,6 +26,10 @@
 <!-- NodeJS --><!--<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="html" width="40" height="40"/> </a> -->
 <!-- Git --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="html" width="40" height="40"/> </a>
 
+</p>
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAbdulwahab&show_icons=true&locale=en&layout=compact" alt="OmarAbdulwahab" /></p>
