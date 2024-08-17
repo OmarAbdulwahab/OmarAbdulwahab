@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,nodejs,express,npm,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,nodejs,express,npm,mongodb,git&perline=11)](https://skillicons.dev)
 
 <!-- <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
